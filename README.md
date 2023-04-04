@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @boranj
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in machine learning and data analysis.
+- 🌱 I’m currently learning python as well as SQL.
+
 
 <!---
 boranj/boranj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
